@@ -29,17 +29,17 @@ if __name__ == "__main__":
         )
         time.sleep(3600)
 ```
-# 📋 Requisitos
+## 📋 Requisitos
 Antes de ejecutar el script, asegúrate de tener instalada la siguiente biblioteca:
 ```bash
 pip install plyer
 ```
-# 🎥 Vista Previa
+## 🎥 Vista Previa
 <div align="center">
 <img src="images/alert.jpg" width="70%"/>
 </div>
 
-# 🔧 Cómo Ejecutar
+## 🔧 Cómo Ejecutar
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/h4ckxel/NotificacionDeLaptop.git
@@ -56,13 +56,13 @@ pip install plyer
    ```bash
    python NotificacionDeLaptop.py
    ```
-# 🤝 Contribución
+## 🤝 Contribución
 ¡Contribuciones, problemas y solicitudes de funciones son bienvenidos! Siéntete libre de revisar la sección de issues y enviar tus ideas.
 
-# ✨ Autor
+### ✨ Autor
 Creado por [h4ckxel](https://github.com/h4ckxel).
 
 <div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> <img src="https://img.shields.io/badge/plyer-9cf?style=for-the-badge&logo=python&logoColor=white" alt="Plyer Badge"/> </div>
 
-# 📜 Licencia
+### 📜 Licencia
 Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
